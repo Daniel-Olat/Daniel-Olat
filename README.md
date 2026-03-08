@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hey, I'm [Daniel] 👋
 
-<!--
-**Daniel-Olat/Daniel-Olat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> "I want to be at the forefront of important future innovations and technological advancements."
 
-Here are some ideas to get you started:
+## 🚀 What I'm Building
+- [CPU Architecture in C & Verilog] — An implementation of CPU architecture both in C , and in verilog to compare the performance measures of the two implementations
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Interests
+
+- Systems programming — kernels, drivers, OS internals , performance & Optimization
+- Hardware design — FPGAs, PCBs, RTL
+- AI/ML — embodied agents, world models
+- Processors(CPUs , GPUs) & AI infrastructure
+- Robotics , Controls & Embedded Systems
+
+## 📚 Background
+- Education: [Electrical & Electronics Engineering @ University of Ibadan , Nigeria]
+
+## 🌐 Find Me Online
+- [Twitter](https://twitter.com/Danola07)
+- [LinkedIn](www.linkedin.com/in/daniel-olatunji-1b4711276)
+- [Email](danielolatunji2907@gmail.com)
+
+
+
