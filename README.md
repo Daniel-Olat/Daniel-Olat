@@ -16,7 +16,7 @@
 ##  Background
 - Education: Electrical & Electronics Engineering @ University of Ibadan , Nigeria
 
-## 🔗 Find Me Online
+## Find Me Online
 - [Twitter](https://twitter.com/Danola07)
 - [LinkedIn](www.linkedin.com/in/daniel-olatunji-1b4711276)
 - [Email](danielolatunji2907@gmail.com)
